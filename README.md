@@ -1,7 +1,7 @@
 <link href="/path/to/markdown.css" rel="stylesheet"></link>
 
 # Library
-Below are listed some of the more notable books I've read in help of software development/engineering
+Below are some of the more notable books I've read in help of software development/engineering
 
 
 
